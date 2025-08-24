@@ -1,0 +1,11 @@
+E:\Proyectos_java\automovil\automovil\src\main\java\com\mycompany\automovil\Automovil.java
+E:\Proyectos_java\automovil\automovil\src\main\java\com\mycompany\automovil\igu\AltaAutomovil.java
+E:\Proyectos_java\automovil\automovil\src\main\java\com\mycompany\automovil\igu\ConsultaAutomovil.java
+E:\Proyectos_java\automovil\automovil\src\main\java\com\mycompany\automovil\igu\Principal.java
+E:\Proyectos_java\automovil\automovil\src\main\java\com\mycompany\automovil\logica\Automovil.java
+E:\Proyectos_java\automovil\automovil\src\main\java\com\mycompany\automovil\logica\Controladora.java
+E:\Proyectos_java\automovil\automovil\src\main\java\com\mycompany\automovil\persistencia\AutomovilJpaController.java
+E:\Proyectos_java\automovil\automovil\src\main\java\com\mycompany\automovil\persistencia\ControladoraPersistencia.java
+E:\Proyectos_java\automovil\automovil\src\main\java\com\mycompany\automovil\persistencia\exceptions\IllegalOrphanException.java
+E:\Proyectos_java\automovil\automovil\src\main\java\com\mycompany\automovil\persistencia\exceptions\NonexistentEntityException.java
+E:\Proyectos_java\automovil\automovil\src\main\java\com\mycompany\automovil\persistencia\exceptions\PreexistingEntityException.java

@@ -16,7 +16,10 @@ Swing (para la interfaz gráfica)
 JPA (Java Persistence API)
 Base de datos relacional (MySQL, Derby, etc.)
 📦 Organización de Paquetes
-src/ ├── igu/ ← Ventanas y componentes gráficos ├── logica/ ← Clase Automovil y lógica de negocio └── persistencia/ ← JPAController y entidades
+src/ 
+├── igu/ ← Ventanas y componentes gráficos 
+├── logica/ ← Clase Automovil y lógica de negocio 
+└── persistencia/ ← JPAController y entidades
 
 🚀 Cómo Ejecutar
 Clona o descarga el proyecto.
